@@ -1,7 +1,7 @@
 ### Assalam Aleikum! My name is Abay
 ### I am Backend Developer from Astana, Kazakhstan
 
-- 🔭 My stack is LCMPR: Linux, Caddy, MongoDB, Python, Redis
+- 🔭 My stack is LEPPR: Linux, Nginx, PostgreSQL, Python, Redis
 - 💻 I'm currently working on [Sulu Telegram Bot](https://github.com/LaggerIsME/telegrambot_for_chat)
 - 🐧 I'm Linux Enjoyer, so I also use Fedora Workstation in developing
 
