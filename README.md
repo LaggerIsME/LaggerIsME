@@ -3,7 +3,7 @@
 
 - 🔭 My stack is LEPPR: Linux, Nginx, PostgreSQL, Python, Redis
 - 💻 I'm currently working on [Sulu Telegram Bot](https://github.com/LaggerIsME/telegrambot_for_chat)
-- 🐧 I'm Linux Enjoyer, so I also use Debian 12 in developing
+- 🐧 I'm Linux Enjoyer, so I also use Fedora 39 Workstation in developing
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LaggerIsME&theme=default)
 
